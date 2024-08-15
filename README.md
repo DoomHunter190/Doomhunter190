@@ -12,13 +12,10 @@
 
 
 
-
-- 🔭 В настоящее время я работаю над [Federation of Adaptive Hockey](https://github.com/Studio-Yandex-Practicum/adaptive_hockey_federation)
   
 - 📫 Как связаться со мной **maximportnov9999@gmail.com** или Telegram: <a href="https://t.me/Dooom77" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  />
   </a>
-- 🏠 Живу в Москве
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
