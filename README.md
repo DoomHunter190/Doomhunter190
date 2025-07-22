@@ -6,15 +6,15 @@
 
 <h1 align="center">Привет 👋 Меня зовут Максим!</h1>
 
-<h3 align="center">Страстный бэкенд-разработчик из России.</h3>
+<h3 align="center">Страстный бэкенд-разработчик.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doomhunter190&label=Profile%20views&color=0e75b6&style=flat" alt="doomhunter190" /> </p>
 
 
 
   
-- 📫 Как связаться со мной **maximportnov9999@gmail.com** или Telegram: <a href="https://t.me/Dooom77" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="telegram logo"  />
+- 📫 Как связаться со мной **maximportnov9999@gmail.com**
+  
   </a>
 
 <p align="center">
