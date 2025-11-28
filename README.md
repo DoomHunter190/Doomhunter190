@@ -4,17 +4,9 @@
   <img height="300" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ0ZTltc214cXZ0ZGQzYzN5c3hpcHZmaGRldnR1N3pndmkwazN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
-<h1 align="center">Привет 👋 Меня зовут Максим!</h1>
-
-<h3 align="center">Страстный бэкенд-разработчик.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=doomhunter190&label=Profile%20views&color=0e75b6&style=flat" alt="doomhunter190" /> </p>
 
 
-
-  
-- 📫 Как связаться со мной **maximportnov9999@gmail.com**
-  
   </a>
 
 <p align="center">
